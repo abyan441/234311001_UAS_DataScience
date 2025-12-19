@@ -39,7 +39,7 @@
 234311001_UAS_DataScience/
 │
 ├── data/
-│   ├── Youtube02-KatyPerry.csv
+│   └── Youtube02-KatyPerry.csv
 │                   
 │
 ├── notebooks/       
@@ -50,7 +50,7 @@
 ├── models/                 
 │   ├── model_baseline.pkl
 │   ├── model_lstm.h5
-│   ├── model_rf.pkl
+│   └── model_rf.pkl
 │
 ├── images/                 
 │   ├── Confusion Matrix  Visualization (model 1).png
@@ -60,7 +60,7 @@
 │   ├── Training & Validation Loss.png
 │   ├── Visualisasi 1 Distribusi Kelas Spam vs Non-Spam (Bar Plot).png
 │   ├── Visualisasi 2 Distribusi Jumlah Kata pada Komentar (Histogram + KDE).png
-│   └── Visualisasi 3 Wordcloud Spam & Wordcloud Non-Spam.png
+│   ├── Visualisasi 3 Wordcloud Spam & Wordcloud Non-Spam.png
 │   └── Visualisasi Perbandingan.png
 │
 ├── 234311001_Abyan Raga Kusuma_UAS DATA SCIENCE
