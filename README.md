@@ -36,38 +36,34 @@
 ---
 ## 📁 Struktur Folder
 ```
-234311026_UAS_DataScience/
+234311001_UAS_DataScience/
 │
 ├── data/
-│   ├── communities.data
-│   └── communities.names                   
+│   ├── Youtube02-KatyPerry.csv
+│                   
 │
 ├── notebooks/       
-│   └──234311026_uasdata01.ipynb
+│   └──UAS_DATA_SCIECES.ipynb
 │
 ├── src/                   
 │   
 ├── models/                 
-│   ├── gradient_boosting_model.joblib
-│   ├── linear_regression_model.joblib
-│   ├── mlp_model.h5
-│   └── mlp_savedmodel/
-│       ├── fingerprint.pb
-│       ├── saved_model.pb
-│       └── variables/
-│           ├── variables.data-00000-of-00001
-│           └── variables.index
+│   ├── model_baseline.pkl
+│   ├── model_lstm.h5
+│   ├── model_rf.pkl
 │
 ├── images/                 
-│   ├── feature important plot.png
-│   ├── heatmap hubungan antar ftr.png
-│   ├── histogram distribusi ftr.png
-│   ├── perbandingan data asli vs predict.png
-│   ├── perbandingan performa antar model.png
-│   ├── scatter plot hubungan antar ftr.png
-│   ├── train vs val loss per epoch.png
-│   └── train vs val mae.png
+│   ├── Confusion Matrix  Visualization (model 1).png
+│   ├── Confusion Matrix  Visualization (model 2).png
+│   ├── Confusion Matrix  Visualization (model 3).png
+│   ├── Training & Validation AccuracyMetric.png
+│   ├── Training & Validation Loss.png
+│   ├── Visualisasi 1 Distribusi Kelas Spam vs Non-Spam (Bar Plot).png
+│   ├── Visualisasi 2 Distribusi Jumlah Kata pada Komentar (Histogram + KDE).png
+│   └── Visualisasi 3 Wordcloud Spam & Wordcloud Non-Spam.png
+│   └── Visualisasi Perbandingan.png
 │
+├── 234311001_Abyan Raga Kusuma_UAS DATA SCIENCE
 ├── requirements.txt
 ├── Checklist Submit.md
 ├── LICENSE        
