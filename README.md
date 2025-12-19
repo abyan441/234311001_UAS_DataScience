@@ -87,9 +87,9 @@ Berikut tabel fitur yang digunakan:
 
 | **Nama Fitur**        | **Deskripsi** |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **AUTHOR**            | Persentase penduduk dengan pendidikan kurang dari kelas 9 (indikator rendahnya pendidikan dasar).                              |
-| **DATE**              | Persentase penduduk yang tidak lulus SMA, menggambarkan kualitas pendidikan menengah.                                         |
-| **CONTENT**           | Persentase penduduk dengan gelar sarjana atau lebih (pendidikan tinggi).                                                      |
+| **AUTHOR**            | Nama Pengguna yang memberikan komentar.                                                                                       |
+| **DATE**              | Tanggal komentar diposting.                                                                                                   |
+| **CONTENT**           | Isi komentar YouTube.                                                                                                         |
 
 ---
 
