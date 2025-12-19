@@ -1,0 +1,78 @@
+# =============================
+# DATASETS
+# =============================
+data/**
+!data/
+!data/.gitkeep
+
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.zip
+*.rar
+
+
+# =============================
+# MODELS (ML & DL)
+# =============================
+models/**
+!models/
+!models/.gitkeep
+
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+
+
+# =============================
+# JUPYTER & COLAB
+# =============================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+
+# =============================
+# PYTHON CACHE
+# =============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# =============================
+# LOGS & TEMP FILES
+# =============================
+logs/
+*.log
+tmp/
+temp/
+
+
+# =============================
+# VIRTUAL ENV
+# =============================
+env/
+venv/
+
+
+# =============================
+# OS FILES
+# =============================
+.DS_Store
+Thumbs.db
+
+
+# =============================
+# IMAGES (allow folder only)
+# =============================
+images/**
+!images/
+!images/.gitkeep
